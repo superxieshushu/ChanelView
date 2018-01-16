@@ -1,6 +1,7 @@
 ## ChanelView
 废话不多说，请看效果图。
-|              Chanel App效果图               |                 我实现的效果图                  |
+
+|              Chanel App效果图               |                  我实现的效果                  |
 | :--------------------------------------: | :--------------------------------------: |
 | ![Chanel App Gif](https://ws4.sinaimg.cn/large/006tNc79gy1fnhp10d938g304p08wawk.gif) | ![ Chanel View ](https://ws2.sinaimg.cn/large/006tNc79gy1fnhp4kt5zig304p08w40y.gif) |
 
